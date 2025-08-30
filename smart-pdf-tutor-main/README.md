@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/719a920b-8461-467c-a088-4de90563101f
+**URL**: [https://lovable.dev/projects/719a920b-8461-467c-a088-4de90563101f](https://smart-pdf-tutor.lovable.app/)
 
 ## How can I edit this code?
 
